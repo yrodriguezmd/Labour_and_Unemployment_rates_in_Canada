@@ -1,7 +1,7 @@
 # Labour and Unemployment Rates in Canada:  
 # A five-decade Analysis using Big Data Tools 
 
-Access to Spark code via Databricks:  https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4897255296534028/3511597199865228/4912035978128961/latest.html
+
 
 Rodriguez M, Datta S, Ghodousipour F, Kaur J, Tang C., Fahme F. 2021 April
 
@@ -25,3 +25,10 @@ The platform used was Databricks.  Languages used were python, pyspark and sql. 
 The labour force had a general increasing trend, with decreasing unemployment rates.  Unemployment rates were higher among young adults, males, and populations living in Atlantic Canada.  The unemployment rates fluctuations were prominent in the top two sectors of goods-producing and service-producing industries.  The unemployment rate is predicted to be 8.8% for 2021 and  between 3-9% by 2031.
 
 Increasing unemployment rates correspond to recessions, which occur approximately every 10 years.  On average, recovery from a recession was achieved within 6 years.  However, the extent and direction of the current recession is hard to predict because of its atypical pattern.
+
+
+
+### Access to Spark Worksheets via Databricks:
+Rodriguez individual work:  https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4897255296534028/3511597199865228/4912035978128961/latest.html
+
+Rodriguez M, Datta S, Ghodousipour F, Kaur J, Tang C., Fahme F.: Group work: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/313825514368579/1621046929403477/7328271394610816/latest.html (submitted to the Faculty of University of Toronto/ University of Waterloo as one of the requirements for the completion of the Big Data Systems, Management and Tools course, April 2021)
