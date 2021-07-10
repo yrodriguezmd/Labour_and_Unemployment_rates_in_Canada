@@ -26,6 +26,11 @@ The labour force had a general increasing trend, with decreasing unemployment ra
 
 Increasing unemployment rates correspond to recessions, which occur approximately every 10 years.  On average, recovery from a recession was achieved within 6 years.  However, the extent and direction of the current recession is hard to predict because of its atypical pattern.
 
+![Screen Shot 2021-07-10 at 12 03 41 PM](https://user-images.githubusercontent.com/71532604/125169211-200cce00-e177-11eb-92be-9e3f30f005d5.png) Figure 1.  Unemployment rates in Canada (1976 - 2020)
+
+
+![Screen Shot 2021-07-10 at 12 07 28 PM](https://user-images.githubusercontent.com/71532604/125169303-8d206380-e177-11eb-896e-79d1ffec821d.png)  Figure 2.  Predicting unemployment rates using ARIMA.
+
 
 
 ### Access to Spark Worksheets via Databricks:
