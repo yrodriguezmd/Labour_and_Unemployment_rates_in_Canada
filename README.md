@@ -1,7 +1,6 @@
-# Labour and Unemployment Rates in Canada:  
-# A five-decade Analysis using Big Data Tools 
+## Is the Canadian unemployment rate improving?
 
-
+### Labour and Unemployment Rates in Canada:  A five-decade Analysis using Big Data Tools 
 
 Rodriguez M, Datta S, Ghodousipour F, Kaur J, Tang C., Fahme F. 2021 April
 
